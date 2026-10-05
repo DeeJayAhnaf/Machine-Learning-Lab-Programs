@@ -1,0 +1,52 @@
+PassengerId,Survived,Name,Pclass,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,1,"Braund, Mr. Owen Harris",3,male,22.0,1,0,A/5 21171,7.25,,S
+2,1,"Cumings, Mrs. John Bradley",1,female,38.0,1,0,PC 17599,71.2833,C85,C
+3,1,"Heikkinen, Miss. Laina",3,female,26.0,0,0,STON/O2. 3101282,7.925,,S
+4,1,"Futrelle, Mrs. Jacques Heath",1,female,35.0,1,0,113803,53.1,C123,S
+5,0,"Allen, Mr. William Henry",3,male,35.0,0,0,373450,8.05,,S
+6,0,"Moran, Mr. James",3,male,,0,0,330877,8.4583,,Q
+7,0,"McCarthy, Mr. Timothy J",1,male,54.0,0,0,17463,51.8625,E46,S
+8,0,"Palsson, Master. Gosta Leonard",3,male,2.0,3,1,349909,21.075,,S
+9,1,"Johnson, Mrs. Oscar W (Elisabeth Vilma Mary)",3,female,27.0,0,2,347742,11.1333,,S
+10,1,"Nasser, Mrs. Nicholas (Adele Achem)",2,female,14.0,1,0,237736,30.0708,,C
+11,1,"Sandstrom, Miss. Marguerite Rut",3,female,4.0,1,1,PP 9549,16.7,G6,S
+12,1,"Bonnell, Miss. Elizabeth",1,female,58.0,0,0,113783,26.55,C103,S
+13,0,"Saundercock, Mr. William Henry",3,male,20.0,0,0,A/5. 2151,8.05,,S
+14,0,"Andersson, Mr. Anders Johan",3,male,39.0,1,5,347082,31.275,,S
+15,0,"Vestrom, Miss. Hulda Amanda Adolfina",3,female,14.0,0,0,350406,7.8542,,S
+16,1,"Hewlett, Mrs. Mary D (Elizabeth Anne)",2,female,55.0,0,0,248706,16.0,,S
+17,0,"Rice, Master. Eugene",3,male,2.0,4,1,382652,29.125,,Q
+18,1,"Williams, Mr. Charles Eugene",2,male,,0,0,244373,13.0,,S
+19,0,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",3,female,31.0,1,0,345763,18.0,,S
+20,1,"Masselmani, Mrs. Fatima",3,female,,0,0,2649,7.225,,C
+21,0,"Fynney, Mr. Joseph J",2,male,35.0,0,0,239865,26.0,,S
+22,1,"Beesley, Mr. Lawrence",2,male,34.0,0,0,248698,13.0,D56,S
+23,1,"McGough, Mr. James Robert",3,male,15.0,0,0,330923,8.0292,,Q
+24,1,"Sloper, Mr. William Thompson",1,male,28.0,0,0,113788,35.5,A6,S
+25,0,"Palsson, Miss. Torborg Danira",3,female,8.0,3,1,349909,21.075,,S
+26,1,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",3,female,38.0,1,5,347077,31.3875,,S
+27,0,"Emir, Mr. Farred Chehab",3,male,,0,0,2631,7.225,,C
+28,0,"Fortune, Mr. Charles Alexander",1,male,19.0,3,2,19950,263.0,C23 C25 C27,S
+29,1,"O'Dwyer, Miss. Ellen",3,female,,0,0,330959,7.8792,,Q
+30,0,"Todoroff, Mr. Lalio",3,male,,0,0,349216,7.8958,,S
+31,0,"Uruchurtu, Don. Manuel E",1,male,40.0,0,0,PC 17601,27.7208,,C
+31,1,"Bishop, Mrs. Dickinson H (Helen Walton)",1,female,25.0,1,0,11967,91.0792,B49,C
+32,1,"Bonnell, Miss. Elizabeth",1,female,58.0,0,0,113783,26.55,C103,S
+33,0,"Klasen, Mr. Ernst",3,male,33.0,1,1,350404,20.525,,S
+34,1,"Graham, Miss. Margaret Edith",1,female,58.0,0,0,PC 17582,153.4625,C125,S
+35,0,"Kink-Heilmann, Miss. Luise Gretchen",3,female,4.0,0,1,315153,22.45,,S
+36,1,"Allen, Mr. William",3,male,,0,0,373450,8.05,,S
+37,1,"Davies, Mr. Charles",2,male,18.0,0,0,S.O.C. 14879,73.5,,S
+38,0,"Olsen, Mr. Ole Martin",3,male,,0,0,370376,7.75,,Q
+39,0,"McMahon, Mr. Martin",3,male,,0,0,370374,7.75,,Q
+40,1,"Nicola-Yarred, Master. Elias",3,male,5.0,1,2,2651,31.3875,,C
+41,0,"Hansen, Mr. Claus Peter",3,male,,0,0,350029,7.8542,,S
+42,0,"Carter, Mr. William Ernest",2,male,32.0,0,0,244252,13.0,,S
+43,0,"Turpin, Mr. William John Robert",2,male,29.0,0,0,11668,10.5,,S
+44,1,"Larsson, Mr. August",2,male,3.0,1,1,SC/Paris 2123,26.0,,S
+45,1,"Devaney, Miss. Margaret Delia",3,female,19.0,0,0,330958,7.8792,,Q
+46,0,"Rogers, Mr. William John",3,male,,0,0,S.C./A.4. 23567,8.05,,S
+47,0,"Rice, Mrs. William (Margaret Norton)",3,female,,0,0,382652,29.125,,Q
+48,1,"Porter, Mr. Henry",1,male,45.0,1,0,110465,83.475,C6,S
+49,0,"Skoog, Master. Karl Thorsten",3,male,9.0,1,1,347742,11.1333,,S
+50,1,"Arnold-Franchi, Mrs. Josef (Josefina Franchi)",3,female,18.0,1,0,349237,17.8,,S
